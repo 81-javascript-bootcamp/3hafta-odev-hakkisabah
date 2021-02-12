@@ -14,7 +14,7 @@ bonus
 
 https://github.com/hakkisabah/catanddog.space
 
-###Neden
+### Neden
 Projede özellik ve davranış geliştiriken amaç uygunluğu gözlemlenmiştir. 
 Bu bağlamda küçük yaştaki çocukların kedi ve köpek seslerini eğlenceli ve iyi bir deneyimle öğrenmeleri için bir takım
 kullanıcı deneyimini kolaylaştıran davranış ve eylemlerin amaca hizmet etmesi sağlanmıştır.
@@ -22,7 +22,7 @@ kullanıcı deneyimini kolaylaştıran davranış ve eylemlerin amaca hizmet etm
 ### Demo
 https://www.catanddog.space/
 
-####İstenilen davranışlara ek olarak :
+#### İstenilen davranışlara ek olarak :
 - Sayfa ilk yüklenirken isim ve 2 adet pet apisinden verileri alır ve DOM'a aktarır
 - Sayfa yüklendikten sonra hızlı yenileme için arka planda ikinci yükleme verilerini değişkene atar ve hazırda bekletir
 - Her yenileme isteği sonrası bir sonraki yenileme için ilk baştaki işlemleri otomatik sağlar ve bu işlem her zaman asenkron çalışır
